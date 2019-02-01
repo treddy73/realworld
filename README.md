@@ -45,7 +45,7 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
     16: Crizmas MVC
     17: Imba
 -->
-> _Sorted by popularity on Wed Jan 23 2019_
+> _Sorted by popularity on Fri Feb 01 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -75,7 +75,8 @@ Work In Progress:
 [Surplus wip](https://github.com/gothinkster/realworld/issues/204) | 
 [Slim.js](https://github.com/gothinkster/realworld/issues/215) | 
 [Nuxt.js](https://github.com/gothinkster/realworld/issues/218) | 
-[Typescript + Web Components](https://github.com/gothinkster/realworld/issues/274)**
+[Typescript + Web Components](https://github.com/gothinkster/realworld/issues/274) | 
+[React + NextJS](https://github.com/gothinkster/realworld/issues/336)**
 
 # Backends
 <!--
@@ -107,13 +108,13 @@ Work In Progress:
     25: Go / Echo
     26: QEWD.js
     27: Node / hapi pal
-    28: Functional ASP.NET Core
-    29: Go Clean Architecture
-    30: Express w/ Bookshelf.js
+    28: Kotlin + Javalin + Exposed
+    29: Functional ASP.NET Core
+    30: Go Clean Architecture
     31: Ruby & Colmena
-    32: Kotlin + Javalin + Exposed
+    32: Express w/ Bookshelf.js
 -->
-> _Sorted by popularity on Wed Jan 23 2019_
+> _Sorted by popularity on Fri Feb 01 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -126,8 +127,8 @@ Work In Progress:
 | [**Moleculer**<br/> ![Moleculer](https://github.com/gothinkster/moleculer-node-realworld-example-app/blob/master/rw-logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/moleculer-node-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/moleculer-node-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/moleculer-node-realworld-example-app)| [**Hapi.js**<br/> ![Hapi.js](https://github.com/gothinkster/hapijs-realworld-example-app/blob/master/.github/project-logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/hapijs-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/hapijs-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/hapijs-realworld-example-app)| [**Scala & Play Framework**<br/> ![Scala & Play Framework](https://github.com/gothinkster/scala-play-realworld-example-app/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/scala-play-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/scala-play-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/scala-play-realworld-example-app)
 | [**Rust / Rocket**<br/> ![Rust / Rocket](https://raw.githubusercontent.com/TatriX/realworld-rust-rocket/master/logo.png) ![Star](https://img.shields.io/github/stars/TatriX/realworld-rust-rocket.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/TatriX/realworld-rust-rocket.svg?style=social&label=Fork)](https://github.com/TatriX/realworld-rust-rocket)| [**Haskell / Yesod**<br/> ![Haskell / Yesod](https://github.com/tzemanovic/haskell-yesod-realworld-example-app/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/tzemanovic/haskell-yesod-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/tzemanovic/haskell-yesod-realworld-example-app.svg?style=social&label=Fork)](https://github.com/tzemanovic/haskell-yesod-realworld-example-app)| [**F#**<br/> ![F#](https://github.com/gothinkster/fsharp-realworld-example-app/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/fsharp-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/fsharp-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/fsharp-realworld-example-app)
 | [**Go / Echo**<br/> ![Go / Echo](https://github.com/xesina/golang-echo-realworld-example-app/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/xesina/golang-echo-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/xesina/golang-echo-realworld-example-app.svg?style=social&label=Fork)](https://github.com/xesina/golang-echo-realworld-example-app)| [**QEWD.js**<br/> ![QEWD.js](https://cloud.githubusercontent.com/assets/556934/25587724/182f95fc-2e5a-11e7-83db-1541c1bee128.png) ![Star](https://img.shields.io/github/stars/gothinkster/QEWD-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/QEWD-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/QEWD-realworld-example-app)| [**Node / hapi pal**<br/> ![Node / hapi pal](https://github.com/devinivy/hapipal-realworld-example-app/blob/master/.github/logo.png) ![Star](https://img.shields.io/github/stars/devinivy/hapipal-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/devinivy/hapipal-realworld-example-app.svg?style=social&label=Fork)](https://github.com/devinivy/hapipal-realworld-example-app)
-| [**Functional ASP.NET Core**<br/> ![Functional ASP.NET Core](https://github.com/dnikolovv/dev-adventures-realworld/raw/master/logo.png) ![Star](https://img.shields.io/github/stars/dnikolovv/dev-adventures-realworld.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dnikolovv/dev-adventures-realworld.svg?style=social&label=Fork)](https://github.com/dnikolovv/dev-adventures-realworld)| [**Go Clean Architecture**<br/> ![Go Clean Architecture](https://raw.githubusercontent.com/gothinkster/realworld-starter-kit/master/logo.png) ![Star](https://img.shields.io/github/stars/err0r500/go-realworld-clean.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/err0r500/go-realworld-clean.svg?style=social&label=Fork)](https://github.com/err0r500/go-realworld-clean)| [**Express w/ Bookshelf.js**<br/> ![Express w/ Bookshelf.js](https://github.com/gothinkster/realworld-starter-kit/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/tanem/express-bookshelf-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/tanem/express-bookshelf-realworld-example-app.svg?style=social&label=Fork)](https://github.com/tanem/express-bookshelf-realworld-example-app)
-| [**Ruby & Colmena**<br/> ![Ruby & Colmena](https://github.com/schoolhouse-io/colmena-realworld-example-app/raw/master/media/logo.png) ![Star](https://img.shields.io/github/stars/schoolhouse-io/colmena-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/schoolhouse-io/colmena-realworld-example-app.svg?style=social&label=Fork)](https://github.com/schoolhouse-io/colmena-realworld-example-app)| [**Kotlin + Javalin + Exposed**<br/> ![Kotlin + Javalin + Exposed](https://raw.githubusercontent.com/Rudge/kotlin-javalin-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/Rudge/kotlin-javalin-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/Rudge/kotlin-javalin-realworld-example-app.svg?style=social&label=Fork)](https://github.com/Rudge/kotlin-javalin-realworld-example-app)
+| [**Kotlin + Javalin + Exposed**<br/> ![Kotlin + Javalin + Exposed](https://raw.githubusercontent.com/Rudge/kotlin-javalin-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/Rudge/kotlin-javalin-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/Rudge/kotlin-javalin-realworld-example-app.svg?style=social&label=Fork)](https://github.com/Rudge/kotlin-javalin-realworld-example-app)| [**Functional ASP.NET Core**<br/> ![Functional ASP.NET Core](https://github.com/dnikolovv/dev-adventures-realworld/raw/master/logo.png) ![Star](https://img.shields.io/github/stars/dnikolovv/dev-adventures-realworld.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dnikolovv/dev-adventures-realworld.svg?style=social&label=Fork)](https://github.com/dnikolovv/dev-adventures-realworld)| [**Go Clean Architecture**<br/> ![Go Clean Architecture](https://raw.githubusercontent.com/gothinkster/realworld-starter-kit/master/logo.png) ![Star](https://img.shields.io/github/stars/err0r500/go-realworld-clean.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/err0r500/go-realworld-clean.svg?style=social&label=Fork)](https://github.com/err0r500/go-realworld-clean)
+| [**Ruby & Colmena**<br/> ![Ruby & Colmena](https://github.com/schoolhouse-io/colmena-realworld-example-app/raw/master/media/logo.png) ![Star](https://img.shields.io/github/stars/schoolhouse-io/colmena-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/schoolhouse-io/colmena-realworld-example-app.svg?style=social&label=Fork)](https://github.com/schoolhouse-io/colmena-realworld-example-app)| [**Express w/ Bookshelf.js**<br/> ![Express w/ Bookshelf.js](https://github.com/gothinkster/realworld-starter-kit/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/tanem/express-bookshelf-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/tanem/express-bookshelf-realworld-example-app.svg?style=social&label=Fork)](https://github.com/tanem/express-bookshelf-realworld-example-app)
 
 Work In Progress:
 **[Implement GraphQL + Apollo/Relay for the Node + React codebases](https://github.com/gothinkster/realworld/issues/6) | 
@@ -174,7 +175,7 @@ Work In Progress:
   Ranking:
      1: NativeScript (Angular)
 -->
-> _Sorted by popularity on Wed Jan 23 2019_
+> _Sorted by popularity on Fri Feb 01 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
